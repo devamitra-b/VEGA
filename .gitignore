@@ -1,0 +1,19 @@
+# .gitignore
+
+# Node / static site
+node_modules/
+dist/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor
+.vscode/
+*.swp
+.DS_Store
+
+# Build outputs
+build/
+
