@@ -8,8 +8,6 @@ How to contribute
 3. Make your changes with clear commits.
 4. Open a Pull Request describing your changes and why.
 
-
-
 PR requirements
 - PR title and description must clearly explain the change.
 - Include screenshots or sample logs for UI or firmware changes.
