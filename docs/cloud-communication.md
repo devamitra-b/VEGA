@@ -20,6 +20,5 @@ This page outlines recommended approaches to forward aggregated data from the ce
 ```json
 {"topic":"vega/node/NODE_01/telemetry","payload":{"voltage":230.5,"current":2.3,"power":420.5,"ts":"2026-08-29T12:34:56Z"}}
 ```
-
 TODO
 - Add example cloud receiver (small Node.js express + MQTT bridge) under `examples/` in a future PR.
