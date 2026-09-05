@@ -2,6 +2,8 @@
 
 This document describes the Bluetooth / BLE design considerations for the VegaThan project and recommended implementation patterns.
 
+
+
 ## Roles
 - ETS IoT Sender: BLE Peripheral (advertise and expose a characteristic with telemetry)
 - Vega Receiver: BLE Central (scan, connect, read/subscribe to characteristic)
