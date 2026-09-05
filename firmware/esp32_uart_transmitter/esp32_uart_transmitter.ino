@@ -8,6 +8,10 @@
 // - Use UART1 (HardwareSerial) on the ESP32 to communicate with VEGA ARIES (RX1/TX1).
 // - Print sent telemetry and any responses to the Serial Monitor (115200 baud) for debugging.
 //
+
+
+
+
 // Hardware connections:
 // - ESP32 GPIO18 (TX) -> VEGA ARIES RX1
 // - ESP32 GPIO19 (RX) <- VEGA ARIES TX1
