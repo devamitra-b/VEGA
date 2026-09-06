@@ -1,5 +1,7 @@
 # VegaThan — GlowGrid IoT Project
 
+
+
 [![Project Status](https://img.shields.io/badge/status-prototype-orange.svg)](https://github.com/devamitra-b/VEGA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
