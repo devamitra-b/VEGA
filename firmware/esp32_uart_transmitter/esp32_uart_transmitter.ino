@@ -2,6 +2,8 @@
 // GlowGrid / VegaThan IoT project
 // ESP32 firmware to act as a telemetry transmitter for the VEGA ARIES v2.0 board.
 //
+
+
 // Purpose:
 // - Establish UART communication between an ESP32 and the VEGA ARIES v2.0 board.
 // - Send JSON telemetry for three streetlights every 2000 milliseconds (2 seconds).
